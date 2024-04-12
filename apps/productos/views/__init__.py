@@ -1,0 +1,2 @@
+from .cuentas_bancarias import CuentasBancariasViews
+from .transacciones_bancarias import TransaccionesBancariasViews
